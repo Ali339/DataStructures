@@ -3,4 +3,5 @@
 # Using stacks
 # Using queues
 # Using linked lists
+# Heaps
 
